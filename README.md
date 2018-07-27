@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-#
+# Números
 
-=======
-# numeros
-
-Grafo com os nomes dos numeros por extenso. Veja o post completo em
->>>>>>> 6696f5a7325f3b111fc8e26dba0f79a5789c433d
+Como visualizar os padrões de escrita dos números de 1 a 100 na língua portuguesa. Veja o texto [Nomes dos Números: Uma Visualização](https://marcusnunes.me/post/numeros-por-extenso/) para mais detalhes.
