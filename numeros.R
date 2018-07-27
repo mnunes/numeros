@@ -1,6 +1,6 @@
 library(igraph)
 
-numeros <- as.character(read.csv(file = "~/Desktop/numeros", header=FALSE)[, 1])
+numeros <- as.character(read.csv(file="numeros.txt", header=FALSE)[, 1])
 
 nchar(numeros[2])
 
